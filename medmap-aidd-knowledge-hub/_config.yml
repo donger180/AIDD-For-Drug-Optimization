@@ -1,0 +1,7 @@
+title: MedMap AIDD Knowledge Hub
+description: Bilingual knowledge hub for MedMap AIDD platform, AI drug discovery, CRO collaboration, DMTA, ADMET-AI, docking and preclinical research efficiency.
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+lang: en
